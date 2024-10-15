@@ -28,7 +28,7 @@
 				break;
 		}
 		
-		$et = new Marcianico("juanito",100,50,50,50);
+		//$et = new Marcianico("juanito",100,50,50,50);
 		
 		
 		
